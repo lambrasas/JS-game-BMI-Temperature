@@ -16,7 +16,7 @@
 // game(randomNumber)
 
 
-// ANTRA UZDUOTIS KMI
+// ANTRA UZDUOTIS BMI
 
 
 
